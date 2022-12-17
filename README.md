@@ -29,3 +29,6 @@ Below is a screenshot from parsing the extracted `lsass.exe` process memory dump
 
 ## Future Work
 Planning to enahnce it to make it exfilterate the extracted process memory dump to evade touching the disk or creating any files.
+
+## License
+MIT
