@@ -21,7 +21,7 @@ and the created DUMP file will be in the same directory of the tool.
  ![image](https://user-images.githubusercontent.com/14153248/208212898-6ffdc463-d61c-461e-8cda-e2bf48d73e07.png)
 
 
-## Testin Results
+## Testing Results
 This tool has been tested on Windows 10 and Windows 11.
 
 Below is a screenshot from parsing the extracted `lsass.exe` process memory dump of Windows 11 using `Mimikatz`
