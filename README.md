@@ -15,7 +15,9 @@ Run the executable
 .\procDump.exe <PID>
 ```
 ![image](https://user-images.githubusercontent.com/14153248/208212785-3073af4e-e757-49fa-9e67-cb8e496d1d41.png)
- and the created DUMP file will be in the same directory of the tool.
+
+and the created DUMP file will be in the same directory of the tool.
+
  ![image](https://user-images.githubusercontent.com/14153248/208212898-6ffdc463-d61c-461e-8cda-e2bf48d73e07.png)
 
 
